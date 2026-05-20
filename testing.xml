@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="LoginSuite">
+  <test name="LoginTests">
+    <classes>
+      <class name="seleniumTestNGProject.CheckLoginPage"/>
+    </classes>
+  </test>
+</suite>

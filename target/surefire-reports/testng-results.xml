@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-21T03:18:45 IST" name="Surefire suite" finished-at="2026-05-21T03:29:43 IST" duration-ms="658172">
+    <groups>
+    </groups>
+    <test started-at="2026-05-21T03:18:45 IST" name="Surefire test" finished-at="2026-05-21T03:29:43 IST" duration-ms="658172">
+      <class name="seleniumTestNGProject.OrangeHRMFunctionalTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:seleniumTestNGProject.OrangeHRMFunctionalTest@1184ab05]" started-at="2026-05-21T03:18:45 IST" name="setup" finished-at="2026-05-21T03:19:07 IST" duration-ms="21897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAllModules()[pri:0, instance:seleniumTestNGProject.OrangeHRMFunctionalTest@1184ab05]" started-at="2026-05-21T03:19:07 IST" name="testAllModules" finished-at="2026-05-21T03:25:22 IST" duration-ms="374700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAllModules -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:seleniumTestNGProject.OrangeHRMFunctionalTest@1184ab05]" started-at="2026-05-21T03:25:22 IST" name="teardown" finished-at="2026-05-21T03:29:43 IST" duration-ms="261542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- seleniumTestNGProject.OrangeHRMFunctionalTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
